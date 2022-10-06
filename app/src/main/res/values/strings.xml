@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PUC EX 1</string>
+    <string name="butto_label">enviar</string>
+    <string name="lbl_name">Name</string>
+    <string name="button_label">Button</string>
 </resources>
